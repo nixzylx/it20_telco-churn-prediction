@@ -1,0 +1,22 @@
+
+telco_churn_system/
+│
+├── data/
+│   └── telco_churn.csv
+│
+├── notebooks/
+│   └── telco_churn_analysis.ipynb
+│
+├── src/
+│   ├── preprocessing/
+│   │   └── preprocess.py
+│   │
+│   └── models/
+│       └── train_model.py
+│
+├── streamlit_app/
+│   └── app.py
+│
+├── requirements.txt
+├── README.md
+└── venv/
